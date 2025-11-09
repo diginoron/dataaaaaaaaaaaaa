@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat App",
+  "description": "A simple and responsive chat application powered by Google Gemini API, built with React and Tailwind CSS. It allows users to have conversational interactions with the Gemini model.",
+  "requestFramePermissions": []
+}
